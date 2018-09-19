@@ -1,0 +1,9 @@
+Bitmaps -> ice.mmp 
+World -> FirstMap.bw 
+WorldDome -> ice_d.mmp
+
+Bitmaps -> ../../3dChars/min.mmp
+
+Bitmaps -> ..\\..\\3dobjs\\3dobjs.mmp
+Bitmaps -> ..\\..\\3dobjs\\weapons.mmp
+Bitmaps -> ..\\..\\3dobjs\\genericos.mmp
